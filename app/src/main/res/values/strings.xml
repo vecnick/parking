@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">parking</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+    <string name="Hello">Добро пожаловать</string>
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+    <string name="continueButton">Продолжить</string>
+    <string name="EntrySms">Вход по СМС</string>
+    <string name="NumberButton">Получить код</string>
+    <string name="Number">89169999999</string>
+    <string name="NumberFull">89169999999</string>
+    <string name="GetNewPass">Получить новый код</string>
+    <string name="EntryPass">Введите пароль</string>
+    <string name="GEOPermission">После нажатия продолжить, приложение запросит доступ к определению вашей геолокации. Это нужно для определения ближайшего места парковки и построению пути до него.</string>
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
